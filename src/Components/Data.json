@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Tina",
+        "tel": "0987765444",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name": "Mina",
+        "tel": "033333333",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name": "Lina",
+        "tel": "01235678",
+        "permission": 3
+    },
+    {
+        "id":4,
+        "name": "Sina",
+        "tel": "099999999",
+        "permission": 2
+    },
+    {
+        "id":5,
+        "name": "Kina",
+        "tel": "033333333",
+        "permission": 3
+    },
+    {
+        "id":6,
+        "name": "Dina",
+        "tel": "066666666",
+        "permission": 1
+    }
+]
